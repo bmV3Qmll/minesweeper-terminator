@@ -1,0 +1,6 @@
+pyautogui
+pyscreeze
+Pillow
+numpy
+scipy
+python-constraint
